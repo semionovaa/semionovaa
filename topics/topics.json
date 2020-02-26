@@ -10,5 +10,11 @@
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
+    },
+        {
+        "id": "ЛабораторныеРаботы",
+        "title": "Лабораторные работы",
+        "description": "Отчёты по лабораторным работам",
+        "preview": "img/class-diagram.png"
     }
 ]
