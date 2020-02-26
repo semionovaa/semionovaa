@@ -3,7 +3,7 @@
         "id": "ЛабораторныеРаботы",
         "title": "Лабораторные работы",
         "description": "О моей ВКР",
-        "preview": "img/Дино.png"
+        "preview": "img/Дино.jpg"
     },
           {
         "id": "План",
@@ -16,5 +16,12 @@
         "title": "Семинары",
         "description": "Всякие разные",
         "preview": "img/Попо.jpg"
+    },
+          {
+        "id": "Проект",
+        "title": "Проект",
+        "description": "Разработка",
+        "preview": "img/Ли.jpg"
     }
+        
 ]
